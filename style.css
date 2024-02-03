@@ -1,0 +1,45 @@
+body {
+    background-color: #6d81be;
+    color: #3e5384;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    margin: 20px auto;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 10px;
+    max-width: 600px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table, th, td {
+    border: 2px solid white;
+    padding: 8px;
+}
+
+th {
+    background-color: #6d81be;
+    color: white;
+}
+.container {
+.container {
+    margin: 20px auto;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 10px;
+    max-width: 600px;
+}
+
+.center-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px; /* Add some margin between headline and other elements */
+}
